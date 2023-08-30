@@ -1,4 +1,4 @@
 <?php
-$botToken="6342468746:AAEpRIii6NTX4fUgmFWjI8XliuhGFnfd19k";
+$botToken="6369214085:AAGp0U-KICJoEJXM5iOzxlGbQNYK2Lsgdr8";
 $IdTelegram=array("842554301"); 
 ?>
